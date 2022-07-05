@@ -1,4 +1,4 @@
-# Exercícios em Ptyhon
+# Exercícios em Python
 Olá, este repositorio foi feito para salvar os exercícios praticados em aula.
 
 Nele irá conter exercícios que realizei em minha graduação de Análise e Desenvolvimento de Sistemas e no meu curso de Python.
